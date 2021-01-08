@@ -1,0 +1,5 @@
+wwwroot
+.vscode
+bin
+obj
+*.db
